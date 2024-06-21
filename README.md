@@ -33,8 +33,8 @@ This repository was released with the following pre-print. If you use this repos
 }
 ```
 
-# Authors
+## Authors
 * **Yu-Ang Cheng** ([https://github.com/Yu-AngCheng](https://github.com/Yu-AngCheng))
 
-# License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
