@@ -37,4 +37,4 @@ This repository was released with the following pre-print. If you use this repos
 * **Yu-Ang Cheng** ([https://github.com/Yu-AngCheng](https://github.com/Yu-AngCheng))
 
 # License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
