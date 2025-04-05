@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <br>
-  A neural geometry theory comprehensively explains apparently conflicting models of visual perceptual learning
+  A neural geometry approach comprehensively explains apparently conflicting models of visual perceptual learning
   <br>
 </h1>
 
@@ -20,16 +20,16 @@ This repo contains code for analyzing the changes of neural networks, human fMRI
 ## Citation
 This repository was released with the following pre-print. If you use this repository in your research, please cite as:
 
-[Cheng, Y. A., Sanayei, M., Chen, X., Jia, K., Li, S., Fang, F., ... & Zhang, R. Y. (2023). A neural geometry theory comprehensively explains apparently conflicting models of visual perceptual learning. bioRxiv, 2023-11.](https://www.biorxiv.org/content/10.1101/2023.11.13.566963v2)
+[Cheng, Y. A., Sanayei, M., Chen, X., Jia, K., Li, S., Fang, F., ... & Zhang, R. Y. (2025). A neural geometry approach comprehensively explains apparently conflicting models of visual perceptual learning. Nature Human Behaviour, 1-18.](https://www.nature.com/articles/s41562-025-02149-x)
 
 ```
-@article{cheng2023neural,
-  title={A neural geometry theory comprehensively explains apparently conflicting models of visual perceptual learning},
+@article{cheng2025neural,
+  title={A neural geometry approach comprehensively explains apparently conflicting models of visual perceptual learning},
   author={Cheng, Yu-Ang and Sanayei, Mehdi and Chen, Xing and Jia, Ke and Li, Sheng and Fang, Fang and Watanabe, Takeo and Thiele, Alexander and Zhang, Ru-Yuan},
-  journal={bioRxiv},
-  pages={2023--11},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory}
+  journal={Nature Human Behaviour},
+  pages={1--18},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 ```
 
